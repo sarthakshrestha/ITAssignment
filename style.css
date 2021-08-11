@@ -393,7 +393,7 @@
 	margin-bottom: 5%;
 	text-align: justify-all;
 	height: 400px;
-	left: 50px;
+	left: 10px;
 	position: relative;
 	bottom: 70px;
 	width: 100%;
@@ -417,7 +417,7 @@
 	text-align: center;
 	height: 400px;
 	width: 500px;
-	left: 700px;
+	left: 550px;
 	position: relative;
 	bottom: 580px;
 }
@@ -429,18 +429,17 @@
 	text-align: center;
 	height: 299px;
 	width: 500px;
-	left: 1225px;
+	left: 1070px;
 	position: relative;
 	bottom: 1300px;
 	align-content: right;
 }
 
 .products-col-ipad img iPad{
-	border-radius: 10px;
 	height: 400px;
 	width: 40px;
 	bottom: 300px;
-	left: 900px;
+	left: 600px;
 	position: relative;
 }
 
